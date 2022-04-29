@@ -1,0 +1,102 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Nonuniformly_spaced_linear}{article}{}
+      \name{author}{2}{}{%
+        {{hash=00f16fcf42066a799c102f8a89a0064b}{%
+           family={Hodjat},
+           familyi={H\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=f077eace92e83e745882193153822628}{%
+           family={Hovanessian},
+           familyi={H\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{d4da81c9098e3ae038243c124e525c60}
+      \strng{fullhash}{d4da81c9098e3ae038243c124e525c60}
+      \strng{bibnamehash}{d4da81c9098e3ae038243c124e525c60}
+      \strng{authorbibnamehash}{d4da81c9098e3ae038243c124e525c60}
+      \strng{authornamehash}{d4da81c9098e3ae038243c124e525c60}
+      \strng{authorfullhash}{d4da81c9098e3ae038243c124e525c60}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Trans. on Antennas and Propagation 26.2 198-204}
+      \field{title}{Nonuniformly spaced linear and planar array antennas for sidelobe reduction}
+      \field{year}{1978}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Optimization_of_sparse_arrays}{article}{}
+      \name{author}{2}{}{%
+        {{hash=201022345c9c2bb0366e3b0d5ca38d37}{%
+           family={Hopperstad},
+           familyi={H\bibinitperiod},
+           given={J.\bibnamedelimi F.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=c54c195629bd191b57a20ca89babe10d}{%
+           family={Holm},
+           familyi={H\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{e58f13c1a0f55f99273f7f27a752b387}
+      \strng{fullhash}{e58f13c1a0f55f99273f7f27a752b387}
+      \strng{bibnamehash}{e58f13c1a0f55f99273f7f27a752b387}
+      \strng{authorbibnamehash}{e58f13c1a0f55f99273f7f27a752b387}
+      \strng{authornamehash}{e58f13c1a0f55f99273f7f27a752b387}
+      \strng{authorfullhash}{e58f13c1a0f55f99273f7f27a752b387}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proc. Int. Workshop on Sampling Theory and Applications, pp. 91-95}
+      \field{title}{Optimization of sparse arrays by an improved simulated annealing algorithm}
+      \warn{\item Entry 'Optimization_of_sparse_arrays' (biblio.bib): Invalid format 'August 1999' of date field 'date' - ignoring}
+    \endentry
+    \entry{Sampling_theory}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2efa268eaba5c8d1db92b0ca7cce9611}{%
+           family={al},
+           familyi={a\bibinitperiod},
+           given={Holm},
+           giveni={H\bibinitperiod},
+           prefix={et.},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{2efa268eaba5c8d1db92b0ca7cce9611}
+      \strng{fullhash}{2efa268eaba5c8d1db92b0ca7cce9611}
+      \strng{bibnamehash}{2efa268eaba5c8d1db92b0ca7cce9611}
+      \strng{authorbibnamehash}{2efa268eaba5c8d1db92b0ca7cce9611}
+      \strng{authornamehash}{2efa268eaba5c8d1db92b0ca7cce9611}
+      \strng{authorfullhash}{2efa268eaba5c8d1db92b0ca7cce9611}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sampling theory and practice, Chapter 19}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

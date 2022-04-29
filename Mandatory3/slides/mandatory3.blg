@@ -1,0 +1,9 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'mandatory3.blg'
+[57] biber-darwin:340> INFO - === Wed Apr 27, 2022, 18:08:31
+[69] Biber.pm:415> INFO - Reading 'mandatory3.bcf'
+[138] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[143] Utils.pm:395> WARN - The file 'mandatory3.bcf' does not contain any citations!
+[151] bbl.pm:654> INFO - Writing 'mandatory3.bbl' with encoding 'UTF-8'
+[151] bbl.pm:757> INFO - Output to mandatory3.bbl
+[151] Biber.pm:128> INFO - WARNINGS: 1

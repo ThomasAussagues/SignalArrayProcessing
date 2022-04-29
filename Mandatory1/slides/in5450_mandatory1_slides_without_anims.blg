@@ -1,0 +1,18 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'in5450_mandatory1_slides_without_anims.blg'
+[115] biber-MSWIN64:340> INFO - === 
+[157] Biber.pm:418> INFO - Reading 'in5450_mandatory1_slides_without_anims.bcf'
+[279] Biber.pm:972> INFO - Found 3 citekeys in bib section 0
+[296] Biber.pm:4383> INFO - Processing section 0
+[308] Biber.pm:4574> INFO - Looking for bibtex file 'biblio.bib' for section 0
+[364] bibtex.pm:1713> INFO - LaTeX decoding ...
+[374] bibtex.pm:1518> INFO - Found BibTeX data source 'biblio.bib'
+[423] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[423] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'variable = shifted' with 'variable = non-ignorable'
+[423] Biber.pm:4203> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-UK'
+[423] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-UK'
+[425] bbl.pm:654> INFO - Writing 'in5450_mandatory1_slides_without_anims.bbl' with encoding 'UTF-8'
+[427] bbl.pm:757> INFO - Output to in5450_mandatory1_slides_without_anims.bbl
+[427] Biber.pm:130> WARN - Entry 'Optimization_of_sparse_arrays' (biblio.bib): Invalid format 'August 1999' of date field 'date' - ignoring
+[427] Biber.pm:130> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[427] Biber.pm:132> INFO - WARNINGS: 2

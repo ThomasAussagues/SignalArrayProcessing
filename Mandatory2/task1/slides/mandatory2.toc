@@ -1,0 +1,14 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {UKenglish}{}
+\beamer@sectionintoc {1}{Problem statement}{3}{0}{1}
+\beamer@sectionintoc {2}{Incoherent sources}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{Spatial correlation matrix}{4}{0}{2}
+\beamer@subsectionintoc {2}{2}{Standard DAS beamforming}{5}{0}{2}
+\beamer@subsectionintoc {2}{3}{\textsc {CAPON's}/minimum-variance beamformer}{6}{0}{2}
+\beamer@subsectionintoc {2}{4}{MUSIC method}{7}{0}{2}
+\beamer@subsectionintoc {2}{5}{Eigenvector method}{9}{0}{2}
+\beamer@sectionintoc {3}{Coherent sources }{12}{0}{3}
+\beamer@subsectionintoc {3}{1}{Standard algorithm}{13}{0}{3}
+\beamer@subsectionintoc {3}{2}{EV and MUSIC algorithms for correlated sources}{14}{0}{3}
+\beamer@subsectionintoc {3}{3}{Modified MUSIC algorithm}{15}{0}{3}
+\beamer@sectionintoc {4}{Additional slides}{20}{0}{4}

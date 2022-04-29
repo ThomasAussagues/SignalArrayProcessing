@@ -1,0 +1,132 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.12.19)  3 APR 2022 19:02
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**readme.tex
+(./readme.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18>
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/dirtree/dirtree.sty
+Package: dirtree 2012/12/11 v0.32 package wrapper for dirtree
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/dirtree/dirtree.tex
+`dirtree' v0.32, 2012/12/11 (jcc)
+\DT@offset=\dimen139
+\DT@width=\dimen140
+\DT@sep=\dimen141
+\DT@all=\dimen142
+\DT@rulewidth=\dimen143
+\DT@dotwidth=\dimen144
+\DTbaselineskip=\dimen145
+\DT@counti=\count187
+\DT@countii=\count188
+\DT@countiii=\count189
+\DT@countiv=\count190
+\DT@indent=\dimen146
+\DT@parskip=\dimen147
+\DT@baselineskip=\dimen148
+)
+File: dirtree.tex 2012/12/11 v0.32 `dirtree' (jcc)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count191
+\l__pdf_internal_box=\box47
+)
+
+LaTeX Warning: Unused global option(s):
+    [8pt].
+
+(./readme.aux)
+\openout1 = `readme.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 7.
+
+Overfull \hbox (45.23126pt too wide) in paragraph at lines 20--20
+[]\OT1/cmr/bx/n/14.4 High-Resolution Beam-form-ing on farfield monochro-
+ []
+
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 34.
+[1
+
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (1.8908pt too wide) in paragraph at lines 37--38
+[]\OT1/cmr/m/n/10 You can se-lect the ques-tion by com-ment-ing (with \OT1/cmtt
+/m/n/10 #\OT1/cmr/m/n/10 ) the calls \OT1/cmtt/m/n/10 run[]question() 
+ []
+
+
+Overfull \hbox (26.5263pt too wide) in paragraph at lines 39--40
+\OT1/cmr/m/n/10 First, gen-er-ate the de-sired sig-nals vec-tor us-ing \OT1/cmt
+t/m/n/10 MATLAB \OT1/cmr/m/n/10 and place them in \OT1/cmtt/m/n/10 data/matlab\
+OT1/cmr/m/n/10 .
+ []
+
+
+Overfull \hbox (35.38545pt too wide) in paragraph at lines 50--51
+\OT1/cmr/m/n/10 the num-ber of frames. More-over, you will find a video (\OT1/c
+mtt/m/n/10 video[]channel[]20[]lowpass.mp4\OT1/cmr/m/n/10 )
+ []
+
+[2] (./readme.aux) ) 
+Here is how much of TeX's memory you used:
+ 482 strings out of 478994
+ 8173 string characters out of 5858183
+ 297660 words of memory out of 5000000
+ 18030 multiletter control sequences out of 15000+600000
+ 408188 words of font info for 43 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 44i,6n,50p,523b,191s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-supe
+r/cm-super-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mtt10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1
+000.pfb>
+Output written on readme.pdf (2 pages, 88975 bytes).
+PDF statistics:
+ 40 PDF objects out of 1000 (max. 8388607)
+ 28 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,51 @@
+\documentclass[8pt]{article}
+\title{IN5450/9450\\ Mandatory Exercise 2}
+\author{Thomas}
+\date{\today}
+\usepackage{dirtree}
+\begin{document}
+	\maketitle
+\section{Packages}
+The following package should be installed:
+\begin{itemize}
+	\item \texttt{numpy}
+	\item \texttt{matplotlib}
+	\item \texttt{scipy}
+	\item \texttt{cmcrameri}
+	\item \texttt{pathlib}
+	\item \texttt{moviepy}
+	\item \texttt{glob2}
+\end{itemize}
+\section{High-Resolution Beamforming on farfield monochromatic signals
+}
+\subsection{Folders}
+
+\dirtree{%
+	.1 .
+	.1 data.
+	.1 images.
+	.1 questions.
+	.1 slides.
+	.1 utils.
+	.1 main.py.
+}
+The folder data contains the data used for the experiments. Inside it, you fill find two sub-folder containing the \texttt{MATLAB} or \texttt{python} files. \texttt{Images} and \texttt{questions} contain the obtained figures and the scripts for each question. The \texttt{utils} folder contains all the necessary functions: power spectrum estimation functions, spatial correlation matrix estimation function\dots
+\subsection{Parameters}
+\subsubsection{I want to use \texttt{python} data}
+You can easily modify the parameters in the file \texttt{utils/configuration.py}. In this script, you will find two dictionnaries (one for each part) where you can change all the simulation parameters (sources positions, SNR\dots). Once done, open \texttt{main.py}, set the variable \texttt{data} to \texttt{python} (we indicate that we want to use data from \texttt{python}) and set the boolean \texttt{generate\_data} to \texttt{True} to specify that you wan to generate new data. 
+
+You can select the question by commenting (with \texttt{\#}) the calls \texttt{run\_question()}
+\subsubsection{I want to use \texttt{MATLAB} data}
+First, generate the desired signals vector using \texttt{MATLAB} and place them in \texttt{data/matlab}. Then, open \texttt{main.py} and go to the lines 64 and 65. Change the argument \texttt{matlab\_filename} of the function \texttt{from\_matlab\_to\_numpy} with the names of your files. Finally, set the variable \texttt{data} to \texttt{matlab} (we indicate that we want to use data from \texttt{matlab}).
+\subsection{How to run the code?}
+To run the code, just launch \texttt{main.py} and be patient!
+\subsection{Where are the figures?}
+All the produced figures can be found in \texttt{images}. They are sorted by question.
+\section{Working on signals recorded from a commercially available microphone array}
+\subsection{Parameters}
+All parameters can be modify in the  \texttt{main.py} file.
+\subsection{How to run the code?}
+To run the code, just launch \texttt{main.py} and be extremely patient!
+\subsection{Where are the results?}
+All the produced figures can be found in \texttt{images}. They are named according to the number of frames. Moreover, you will find a video (\texttt{video\_channel\_20\_lowpass.mp4}) in the root directory.
+\end{document}

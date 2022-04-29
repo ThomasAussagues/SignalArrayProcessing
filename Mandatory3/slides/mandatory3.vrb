@@ -1,0 +1,36 @@
+\frametitle{DAS algorithm}
+\begin{itemize}
+	\item The presented algorithm is a simplified version of the one I used
+	\item Please see \texttt{utils/parallel\_DAS\_beamforming.py} for the code used to generate the following images
+	\item This code uses parallel computing which significantly improve the computation time of the image!
+\end{itemize}
+\begin{lstlisting}[language=Python, style = mystyle, caption=Pulse compression code]
+def DAS_imaging_TDMA(grid_config : dict, rx_positions : np.array, tx_positions : np.array, tdma_data : np.array, B : float, fc : float,c : float, T_p : float, N_t : float, fs : float) -> np.array:
+
+	x_values = np.arange(grid_config['x_min'],  grid_config['x_max'], grid_config['x_step'])
+	n_x = len(x_values)
+	y_values = np.arange(grid_config['y_min'],  grid_config['y_max'], grid_config['y_step'])
+	n_y = len(y_values)
+	image = np.zeros((n_x, n_y), dtype = 'complex')
+	up_pulse = lfm_pulse(B = B, f_c = fc, T_p = T_p, fs = fs)
+	N_rx = len(rx_positions)
+	N_tx = len(tx_positions)
+	for n_rx in tqdm(range(N_rx)):
+		for n_tx in range(N_tx):
+			echo = tdma_data[:, n_rx, n_tx]
+			compressed_pulse = run_pulse_compression(ping = up_pulse, echo = echo)
+			tmp_image = np.zeros_like(image, dtype = 'complex')
+			tx_pos = tx_positions[n_tx]
+			rx_pos = rx_positions[n_rx]
+			for j in range(n_x):
+				for k in range(n_y):
+					pixel_x_pos = x_values[j]
+					pixel_y_pos = y_values[k]
+					tx_to_pixel_distance = np.sqrt((pixel_x_pos - tx_pos) ** 2 + pixel_y_pos ** 2)
+					rx_to_pixel_distance = np.sqrt((pixel_x_pos - rx_pos) ** 2 + pixel_y_pos ** 2)
+					time_delay = (tx_to_pixel_distance + rx_to_pixel_distance) / c
+					if index_delay < N_t:
+						tmp_image[j, k] += compressed_pulse[index_delay]
+			image += tmp_image
+return x_values, y_values, image.T
+\end{lstlisting}

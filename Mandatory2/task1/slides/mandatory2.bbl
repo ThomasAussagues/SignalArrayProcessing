@@ -1,0 +1,158 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{twoDecades}{article}{}
+      \name{author}{2}{}{%
+        {{hash=c3ff4e3554e8ee2ed31a65ca0efd87a8}{%
+           family={Krim},
+           familyi={K\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=fe8b9560a537ec8401b64b3453999a83}{%
+           family={Viberg},
+           familyi={V\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{a6550f4c078f285492208be95dbf581f}
+      \strng{fullhash}{a6550f4c078f285492208be95dbf581f}
+      \strng{bibnamehash}{a6550f4c078f285492208be95dbf581f}
+      \strng{authorbibnamehash}{a6550f4c078f285492208be95dbf581f}
+      \strng{authornamehash}{a6550f4c078f285492208be95dbf581f}
+      \strng{authorfullhash}{a6550f4c078f285492208be95dbf581f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Signal Processing Magazine}
+      \field{number}{4}
+      \field{title}{Two decades of array signal processing research: the parametric approach}
+      \field{volume}{13}
+      \field{year}{1996}
+      \field{pages}{67\bibrangedash 94}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1109/79.526899
+      \endverb
+    \endentry
+    \entry{fabio}{article}{}
+      \name{author}{3}{}{%
+        {{hash=3d651121d9f7ab7e447009675aa749ae}{%
+           family={Crameri},
+           familyi={C\bibinitperiod},
+           given={Fabio},
+           giveni={F\bibinitperiod}}}%
+        {{hash=b4078088371577f6f93d53b360a1b8e8}{%
+           family={Shephard},
+           familyi={S\bibinitperiod},
+           given={Grace\bibnamedelima E.},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=52f2d0157618ea6924578e3f9e442db4}{%
+           family={Heron},
+           familyi={H\bibinitperiod},
+           given={Philip\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{4927c0b838104e0fc7cc65c078c02fed}
+      \strng{fullhash}{4927c0b838104e0fc7cc65c078c02fed}
+      \strng{bibnamehash}{4927c0b838104e0fc7cc65c078c02fed}
+      \strng{authorbibnamehash}{4927c0b838104e0fc7cc65c078c02fed}
+      \strng{authornamehash}{4927c0b838104e0fc7cc65c078c02fed}
+      \strng{authorfullhash}{4927c0b838104e0fc7cc65c078c02fed}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The accurate representation of data is essential in science communication. However, colour maps that visually distort data through uneven colour gradients or are unreadable to those with colour-vision deficiency remain prevalent in science. These include, but are not limited to, rainbow-like and red--green colour maps. Here, we present a simple guide for the scientific use of colour. We show how scientifically derived colour maps report true data variations, reduce complexity, and are accessible for people with colour-vision deficiencies. We highlight ways for the scientific community to identify and prevent the misuse of colour in science, and call for a proactive step away from colour misuse among the community, publishers, and the press.}
+      \field{isbn}{2041-1723}
+      \field{journaltitle}{Nature Communications}
+      \field{number}{1}
+      \field{title}{The misuse of colour in science communication}
+      \field{volume}{11}
+      \field{year}{2020}
+      \field{pages}{5444}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41467-020-19160-7
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/s41467-020-19160-7
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/s41467-020-19160-7
+      \endverb
+    \endentry
+    \entry{uncini}{book}{}
+      \name{author}{1}{}{%
+        {{hash=dcdff5da94f3aee15e9a335aacb89e63}{%
+           family={Uncini},
+           familyi={U\bibinitperiod},
+           given={Aurelio},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Publishing Company, Incorporated}%
+      }
+      \strng{namehash}{dcdff5da94f3aee15e9a335aacb89e63}
+      \strng{fullhash}{dcdff5da94f3aee15e9a335aacb89e63}
+      \strng{bibnamehash}{dcdff5da94f3aee15e9a335aacb89e63}
+      \strng{authorbibnamehash}{dcdff5da94f3aee15e9a335aacb89e63}
+      \strng{authornamehash}{dcdff5da94f3aee15e9a335aacb89e63}
+      \strng{authorfullhash}{dcdff5da94f3aee15e9a335aacb89e63}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This book is an accessible guide to adaptive signal processing methods that equips the reader with advanced theoretical and practical tools for the study and development of circuit structures and provides robust algorithms relevant to a wide variety of application scenarios. Examples include multimodal and multimedia communications, the biological and biomedical fields, economic models, environmental sciences, acoustics, telecommunications, remote sensing, monitoring and in general, the modeling and prediction of complex physical phenomena. The reader will learn not only how to design and implement the algorithms but also how to evaluate their performance for specific applications utilizing the tools provided. While using a simple mathematical language, the employed approach is very rigorous. The text will be of value both for research purposes and for courses of study.}
+      \field{isbn}{3319028065}
+      \field{title}{Fundamentals of Adaptive Signal Processing}
+      \field{year}{2014}
+    \endentry
+    \entry{Johnson1993ArraySP}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=debfe579910b4c774211fba1e3c8c4c8}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Don\bibnamedelima H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=870bc5f7099c709f74903edbbc1f335d}{%
+           family={Dudgeon},
+           familyi={D\bibinitperiod},
+           given={Dan\bibnamedelima E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{33e8fc5b4ae5410deb44869472e7551f}
+      \strng{fullhash}{33e8fc5b4ae5410deb44869472e7551f}
+      \strng{bibnamehash}{33e8fc5b4ae5410deb44869472e7551f}
+      \strng{authorbibnamehash}{33e8fc5b4ae5410deb44869472e7551f}
+      \strng{authornamehash}{33e8fc5b4ae5410deb44869472e7551f}
+      \strng{authorfullhash}{33e8fc5b4ae5410deb44869472e7551f}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Array Signal Processing: Concepts and Techniques}
+      \field{year}{1993}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

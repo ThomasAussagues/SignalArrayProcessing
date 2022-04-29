@@ -1,0 +1,10 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {UKenglish}{}
+\beamer@sectionintoc {1}{Angular Spectrum Approach}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Unfocused ASA simulation}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Focused ASA simulation}{7}{0}{1}
+\beamer@sectionintoc {2}{Array pattern}{8}{0}{2}
+\beamer@subsectionintoc {2}{1}{Grating lobes}{9}{0}{2}
+\beamer@subsectionintoc {2}{2}{Element weighting and element spacing}{10}{0}{2}
+\beamer@subsectionintoc {2}{3}{Thinning}{14}{0}{2}
+\beamer@subsectionintoc {2}{4}{Element directivity}{17}{0}{2}

@@ -1,0 +1,1766 @@
+Mandatory1/obligen.pdf
+Mandatory1/Mandatory1_aussagues_26_02_2022/in5450_mandatory1_slides_without_anims.pdf
+Mandatory1/Mandatory1_aussagues_26_02_2022/README.txt
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/Mandatory1_1_2_ASA_circular.ipynb
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/Mandatory1_1_2_ASA_square.ipynb
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/Mandatory1_3_ASA_square_focused.ipynb
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/Mandatory1_4_Array_Grating_Lobes.ipynb
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/Mandatory1_5_6_7_Array_Element_weighting_and_element_spacing.ipynb
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/Mandatory1_8_9_10_Array_Thinning.ipynb
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/Mandatory1_11_Array_Thinning.ipynb
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/Mandatory1_12_13_14_Array_Element_Directivity.ipynb
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/.ipynb_checkpoints/Mandatory1_1_2_ASA_circular-checkpoint.ipynb
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/.ipynb_checkpoints/Mandatory1_1_2_ASA_square-checkpoint.ipynb
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/.ipynb_checkpoints/Mandatory1_3_ASA_square_focused-checkpoint.ipynb
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/.ipynb_checkpoints/Mandatory1_4_Array_Grating_Lobes-checkpoint.ipynb
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/.ipynb_checkpoints/Mandatory1_5_6_7_Array_Element_weighting_and_element_spacing-checkpoint.ipynb
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/.ipynb_checkpoints/Mandatory1_8_9_10_Array_Thinning-checkpoint.ipynb
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/.ipynb_checkpoints/Mandatory1_11_Array_Thinning-checkpoint.ipynb
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/.ipynb_checkpoints/Mandatory1_12_13_14_Array_Element_Directivity-checkpoint.ipynb
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/ASA/circular/wave_field_1D_center_circular_smoothed.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/ASA/circular/wave_field_1D_center_square_smoothed.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/ASA/circular/wave_field_1D_far_limit_circular_smoothed.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/ASA/circular/wave_field_1D_near_far_limit_circular_smoothed.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/ASA/circular/wave_field_1D_z=8cm_circular_smoothed_vs_normal.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/ASA/circular/wave_field_1D_z=8cm_circular_smoothed.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/ASA/circular/wave_field_1D_z=8cm_circular.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/ASA/circular/wave_field_2D_xz_circular_smoothed.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/ASA/circular/wave_field_2D_z=0_circular_smoothed.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/ASA/circular/wave_field_2D_z=0_circular.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/ASA/circular/wave_field_2D_z=8cm_circular_smoothed.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/ASA/circular/wave_field_2D_z=8cm_circular.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/ASA/circular/wave_field_3D_z=8cm_circular_smoothed.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/ASA/circular/wave_field_3D_z=8cm_circular.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/ASA/square/all_smoothed_focused.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/ASA/square/wave_field_1D_center_square_smoothed_focused.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/ASA/square/wave_field_1D_center_square_smoothed.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/ASA/square/wave_field_1D_far_limit_square_smoothed.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/ASA/square/wave_field_1D_near_far_limit_square_smoothed.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/ASA/square/wave_field_1D_z=6cm_square_focused.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/ASA/square/wave_field_1D_z=8cm_square_smoothed_vs_normal.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/ASA/square/wave_field_1D_z=8cm_square_smoothed.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/ASA/square/wave_field_1D_z=8cm_square.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/ASA/square/wave_field_2D_xz_square_smoothed_focused.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/ASA/square/wave_field_2D_xz_square_smoothed.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/ASA/square/wave_field_2D_z=0_square_smoothed_focuses.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/ASA/square/wave_field_2D_z=0_square_smoothed_smoothed.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/ASA/square/wave_field_2D_z=0_square_smoothed_vs_normal.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/ASA/square/wave_field_2D_z=0_square_smoothed.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/ASA/square/wave_field_2D_z=0_square.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/ASA/square/wave_field_2D_z=8cm_square_smoothed_focused.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/ASA/square/wave_field_2D_z=8cm_square_smoothed.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/ASA/square/wave_field_2D_z=8cm_square.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/ASA/square/wave_field_3D_z=8cm_square_smoothed.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/ASA/square/wave_field_3D_z=8cm_square.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/anim_steering.gif
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/binned_spare_array_K=25_M=101.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/binned_spare_array_K=50_M=101.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/binned_spare_array_K=75_M=101.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/binned_spare_array.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/compound_vs_ula_1sensor_patterns_deg.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/compound_vs_ula_1sensor_patterns_k.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/ElPos_array_pattern_weights.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/ElPos_array_pattern.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/ML_width_steered_compound_array.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/ml_widths_ElPos_k.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/ml_widths_ElPos_theta.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/steered_array_pattern_elPos.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/steered_composite_arrays_multiple_distance.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/steered_composite_arrays_multiple_steering_angles.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/steered_compound_array_description.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/steered_compound_array.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/steered_ULA_array_pattern_elPos.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/steered_ULA_array_pattern.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/steered_ULA_kaiser_array_pattern.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/thinned_gaussian_array_pattern_25.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/thinned_gaussian_array_pattern_25std_1.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/thinned_gaussian_array_pattern_25std_6.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/thinned_gaussian_array_pattern_25std_8.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/thinned_gaussian_array_pattern_50.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/thinned_gaussian_array_pattern_50std_1.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/thinned_gaussian_array_pattern_50std_6.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/thinned_gaussian_array_pattern_50std_8.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/thinned_gaussian_array_pattern_75.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/thinned_gaussian_array_pattern_75std_1.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/thinned_gaussian_array_pattern_75std_6.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/thinned_unif_array_pattern_25.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/thinned_unif_array_pattern_50.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/thinned_unif_array_pattern_75.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/ula_kaiser_comp.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/ula_kaiser_lobe_widths.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/ula_kaiser_SL_max_white_noise_gain.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/ula_pattern$d=/frac{/lambda}{2}$.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/ula_pattern$d=/frac{/lambda}{4}$.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/ula_pattern$d=/lambda$.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/ula_pattern$d=2/lambda$.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/ula_patterns_deg.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/ula_patterns_k.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/ula_patterns.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-0.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-1.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-2.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-3.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-4.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-5.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-6.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-7.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-8.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-9.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-10.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-11.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-12.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-13.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-14.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-15.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-16.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-17.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-18.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-19.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-20.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-21.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-22.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-23.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-24.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-25.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-26.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-27.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-28.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-29.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-30.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-31.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-32.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-33.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-34.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-35.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-36.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-37.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-38.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-39.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-40.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-41.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-42.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-43.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-44.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-45.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-46.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-47.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-48.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-49.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-50.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-51.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-52.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-53.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-54.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-55.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-56.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-57.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-58.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-59.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-60.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-61.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-62.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-63.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-64.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-65.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-66.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-67.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-68.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-69.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-70.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-71.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-72.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-73.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-74.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-75.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-76.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-77.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-78.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-79.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-80.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-81.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-82.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-83.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-84.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-85.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-86.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-87.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-88.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-89.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-90.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-91.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-92.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-93.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-94.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-95.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-96.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-97.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-98.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-99.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-100.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-101.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-102.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-103.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-104.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/gif/gif-105.jpg
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/utils/array.py
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/utils/ASA.py
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/utils/FFT.py
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/utils/__pycache__/array.cpython-39.pyc
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/utils/__pycache__/ASA.cpython-39.pyc
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/utils/__pycache__/FFT.cpython-39.pyc
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/ula_pattern$d=/frac{/lambda}{2}$.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/ula_pattern$d=/frac{/lambda}{4}$.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/ula_pattern$d=/lambda$.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/ula_pattern$d=2/lambda$.png
+Mandatory1/MATLAB/analyzeBP.m
+Mandatory1/MATLAB/ASA.m
+Mandatory1/MATLAB/ASAparameters.m
+Mandatory1/MATLAB/ASApropagator.m
+Mandatory1/MATLAB/ASAsource.m
+Mandatory1/MATLAB/beampattern.m
+Mandatory1/MATLAB/fft2t.m
+Mandatory1/MATLAB/ifft2t.m
+Mandatory1/MATLAB/untitled.m
+Mandatory1/notes/in5400_notes_project2.aux
+Mandatory1/notes/in5400_notes_project2.lof
+Mandatory1/notes/in5400_notes_project2.log
+Mandatory1/notes/in5400_notes_project2.out
+Mandatory1/notes/in5400_notes_project2.pdf
+Mandatory1/notes/in5400_notes_project2.synctex.gz
+Mandatory1/notes/in5400_notes_project2.thm
+Mandatory1/notes/in5450_notes_mandatory1.aux
+Mandatory1/notes/in5450_notes_mandatory1.lof
+Mandatory1/notes/in5450_notes_mandatory1.log
+Mandatory1/notes/in5450_notes_mandatory1.out
+Mandatory1/notes/in5450_notes_mandatory1.pdf
+Mandatory1/notes/in5450_notes_mandatory1.synctex.gz
+Mandatory1/notes/in5450_notes_mandatory1.tex
+Mandatory1/notes/in5450_notes_mandatory1.thm
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/ula_pattern$d=/frac{/lambda}{2}$.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/ula_pattern$d=/frac{/lambda}{4}$.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/ula_pattern$d=/lambda$.png
+Mandatory1/Mandatory1_aussagues_26_02_2022/Jupyter/images/array/ula_pattern$d=2/lambda$.png
+Mandatory2/task2/audio_channel_20.wav
+Mandatory2/task2/beamforming.py
+Mandatory2/task2/error1.log
+Mandatory2/task2/in5450_oblig2_extra_task.ipynb
+Mandatory2/task2/main.py
+Mandatory2/task2/out1.log
+Mandatory2/task2/readme.pdf
+Mandatory2/task2/utils.py
+Mandatory2/task2/video_channel_20_final.mp4
+Mandatory2/task2/video_channel_20wo_lowpass_final.mp4
+Mandatory2/task2/__pycache__/beamforming.cpython-38.pyc
+Mandatory2/task2/__pycache__/utils.cpython-38.pyc
+Mandatory2/task2/images/frame0.png
+Mandatory2/task2/images/frame1.png
+Mandatory2/task2/images/frame2.png
+Mandatory2/task2/images/frame3.png
+Mandatory2/task2/images/frame4.png
+Mandatory2/task2/images/frame5.png
+Mandatory2/task2/images/frame6.png
+Mandatory2/task2/images/frame7.png
+Mandatory2/task2/images/frame8.png
+Mandatory2/task2/images/frame9.png
+Mandatory2/task2/images/frame10.png
+Mandatory2/task2/images/frame11.png
+Mandatory2/task2/images/frame12.png
+Mandatory2/task2/images/frame13.png
+Mandatory2/task2/images/frame14.png
+Mandatory2/task2/images/frame15.png
+Mandatory2/task2/images/frame16.png
+Mandatory2/task2/images/frame17.png
+Mandatory2/task2/images/frame18.png
+Mandatory2/task2/images/frame19.png
+Mandatory2/task2/images/frame20.png
+Mandatory2/task2/images/frame21.png
+Mandatory2/task2/images/frame22.png
+Mandatory2/task2/images/frame23.png
+Mandatory2/task2/images/frame24.png
+Mandatory2/task2/images/frame25.png
+Mandatory2/task2/images/frame26.png
+Mandatory2/task2/images/frame27.png
+Mandatory2/task2/images/frame28.png
+Mandatory2/task2/images/frame29.png
+Mandatory2/task2/images/frame30.png
+Mandatory2/task2/images/frame31.png
+Mandatory2/task2/images/frame32.png
+Mandatory2/task2/images/frame33.png
+Mandatory2/task2/images/frame34.png
+Mandatory2/task2/images/frame35.png
+Mandatory2/task2/images/frame36.png
+Mandatory2/task2/images/frame37.png
+Mandatory2/task2/images/frame38.png
+Mandatory2/task2/images/frame39.png
+Mandatory2/task2/images/frame40.png
+Mandatory2/task2/images/frame41.png
+Mandatory2/task2/images/frame42.png
+Mandatory2/task2/images/frame43.png
+Mandatory2/task2/images/frame44.png
+Mandatory2/task2/images/frame45.png
+Mandatory2/task2/images/frame46.png
+Mandatory2/task2/images/frame47.png
+Mandatory2/task2/images/frame48.png
+Mandatory2/task2/images/frame49.png
+Mandatory2/task2/images/frame50.png
+Mandatory2/task2/images/frame51.png
+Mandatory2/task2/images/frame52.png
+Mandatory2/task2/images/frame53.png
+Mandatory2/task2/images/frame54.png
+Mandatory2/task2/images/frame55.png
+Mandatory2/task2/images/frame56.png
+Mandatory2/task2/images/frame57.png
+Mandatory2/task2/images/frame58.png
+Mandatory2/task2/images/frame59.png
+Mandatory2/task2/images/frame60.png
+Mandatory2/task2/images/frame61.png
+Mandatory2/task2/images/frame62.png
+Mandatory2/task2/images/frame63.png
+Mandatory2/task2/images/frame64.png
+Mandatory2/task2/images/frame65.png
+Mandatory2/task2/images/frame66.png
+Mandatory2/task2/images/frame67.png
+Mandatory2/task2/images/frame68.png
+Mandatory2/task2/images/frame69.png
+Mandatory2/task2/images/frame70.png
+Mandatory2/task2/images/frame71.png
+Mandatory2/task2/images/frame72.png
+Mandatory2/task2/images/frame73.png
+Mandatory2/task2/images/frame74.png
+Mandatory2/task2/images/frame75.png
+Mandatory2/task2/images/frame76.png
+Mandatory2/task2/images/frame77.png
+Mandatory2/task2/images/frame78.png
+Mandatory2/task2/images/frame79.png
+Mandatory2/task2/images/frame80.png
+Mandatory2/task2/images/frame81.png
+Mandatory2/task2/images/frame82.png
+Mandatory2/task2/images/frame83.png
+Mandatory2/task2/images/frame84.png
+Mandatory2/task2/images/frame85.png
+Mandatory2/task2/images/frame86.png
+Mandatory2/task2/images/frame87.png
+Mandatory2/task2/images/frame88.png
+Mandatory2/task2/images/frame89.png
+Mandatory2/task2/images/frame90.png
+Mandatory2/task2/images/frame91.png
+Mandatory2/task2/images/frame92.png
+Mandatory2/task2/images/frame93.png
+Mandatory2/task2/images/frame94.png
+Mandatory2/task2/images/frame95.png
+Mandatory2/task2/images/frame96.png
+Mandatory2/task2/images/frame97.png
+Mandatory2/task2/images/frame98.png
+Mandatory2/task2/images/frame99.png
+Mandatory2/task2/images/frame100.png
+Mandatory2/task2/images/frame101.png
+Mandatory2/task2/images/frame102.png
+Mandatory2/task2/images/frame103.png
+Mandatory2/task2/images/frame104.png
+Mandatory2/task2/images/frame105.png
+Mandatory2/task2/images/frame106.png
+Mandatory2/task2/images/frame107.png
+Mandatory2/task2/images/frame108.png
+Mandatory2/task2/images/frame109.png
+Mandatory2/task2/images/frame110.png
+Mandatory2/task2/images/frame111.png
+Mandatory2/task2/images/frame112.png
+Mandatory2/task2/images/frame113.png
+Mandatory2/task2/images/frame114.png
+Mandatory2/task2/images/frame115.png
+Mandatory2/task2/images/frame116.png
+Mandatory2/task2/images/frame117.png
+Mandatory2/task2/images/frame118.png
+Mandatory2/task2/images/frame119.png
+Mandatory2/task2/images/frame120.png
+Mandatory2/task2/images/frame121.png
+Mandatory2/task2/images/frame122.png
+Mandatory2/task2/images/frame123.png
+Mandatory2/task2/images/frame124.png
+Mandatory2/task2/images/frame125.png
+Mandatory2/task2/images/frame126.png
+Mandatory2/task2/images/frame127.png
+Mandatory2/task2/images/frame128.png
+Mandatory2/task2/images/frame129.png
+Mandatory2/task2/images/frame130.png
+Mandatory2/task2/images/frame131.png
+Mandatory2/task2/images/frame132.png
+Mandatory2/task2/images/frame133.png
+Mandatory2/task2/images/frame134.png
+Mandatory2/task2/images/frame135.png
+Mandatory2/task2/images/frame136.png
+Mandatory2/task2/images/frame137.png
+Mandatory2/task2/images/frame138.png
+Mandatory2/task2/images/frame139.png
+Mandatory2/task2/images/frame140.png
+Mandatory2/task2/images/frame141.png
+Mandatory2/task2/images/frame142.png
+Mandatory2/task2/images/frame143.png
+Mandatory2/task2/images/frame144.png
+Mandatory2/task2/images/frame145.png
+Mandatory2/task2/images/frame146.png
+Mandatory2/task2/images/frame147.png
+Mandatory2/task2/images/frame148.png
+Mandatory2/task2/images/frame149.png
+Mandatory2/task2/images/frame150.png
+Mandatory2/task2/images/frame151.png
+Mandatory2/task2/images/frame152.png
+Mandatory2/task2/images/frame153.png
+Mandatory2/task2/images/frame154.png
+Mandatory2/task2/images/frame155.png
+Mandatory2/task2/images/frame156.png
+Mandatory2/task2/images/frame157.png
+Mandatory2/task2/images/frame158.png
+Mandatory2/task2/images/frame159.png
+Mandatory2/task2/images/frame160.png
+Mandatory2/task2/images/frame161.png
+Mandatory2/task2/images/frame162.png
+Mandatory2/task2/images/frame163.png
+Mandatory2/task2/images/frame164.png
+Mandatory2/task2/images/frame165.png
+Mandatory2/task2/images/frame166.png
+Mandatory2/task2/images/frame167.png
+Mandatory2/task2/images/frame168.png
+Mandatory2/task2/images/frame169.png
+Mandatory2/task2/images/frame170.png
+Mandatory2/task2/images/frame171.png
+Mandatory2/task2/images/frame172.png
+Mandatory2/task2/images/frame173.png
+Mandatory2/task2/images/frame174.png
+Mandatory2/task2/images/frame175.png
+Mandatory2/task2/images/frame176.png
+Mandatory2/task2/images/frame177.png
+Mandatory2/task2/images/frame178.png
+Mandatory2/task2/images/frame179.png
+Mandatory2/task2/images/frame180.png
+Mandatory2/task2/images/frame181.png
+Mandatory2/task2/images/frame182.png
+Mandatory2/task2/images/frame183.png
+Mandatory2/task2/images/frame184.png
+Mandatory2/task2/images/frame185.png
+Mandatory2/task2/images/frame186.png
+Mandatory2/task2/images/frame187.png
+Mandatory2/task2/images/frame188.png
+Mandatory2/task2/images/frame189.png
+Mandatory2/task2/images/frame190.png
+Mandatory2/task2/images/frame191.png
+Mandatory2/task2/images/frame192.png
+Mandatory2/task2/images/frame193.png
+Mandatory2/task2/images/frame194.png
+Mandatory2/task2/images/frame195.png
+Mandatory2/task2/images/frame196.png
+Mandatory2/task2/images/frame197.png
+Mandatory2/task2/images/frame198.png
+Mandatory2/task2/images/frame199.png
+Mandatory2/task2/images/frame200.png
+Mandatory2/task2/images/frame201.png
+Mandatory2/task2/images/frame202.png
+Mandatory2/task2/images/frame203.png
+Mandatory2/task2/images/frame204.png
+Mandatory2/task2/images/frame205.png
+Mandatory2/task2/images/frame206.png
+Mandatory2/task2/images/frame207.png
+Mandatory2/task2/images/frame208.png
+Mandatory2/task2/images/frame209.png
+Mandatory2/task2/images/frame210.png
+Mandatory2/task2/images/frame211.png
+Mandatory2/task2/images/frame212.png
+Mandatory2/task2/images/frame213.png
+Mandatory2/task2/images/frame214.png
+Mandatory2/task2/images/frame215.png
+Mandatory2/task2/images/frame216.png
+Mandatory2/task2/images/frame217.png
+Mandatory2/task2/images/frame218.png
+Mandatory2/task2/images/frame219.png
+Mandatory2/task2/images/frame220.png
+Mandatory2/task2/images/frame221.png
+Mandatory2/task2/images/frame222.png
+Mandatory2/task2/images/frame223.png
+Mandatory2/task2/images/frame224.png
+Mandatory2/task2/images/frame225.png
+Mandatory2/task2/images/frame226.png
+Mandatory2/task2/images/frame227.png
+Mandatory2/task2/images/frame228.png
+Mandatory2/task2/images/frame229.png
+Mandatory2/task2/images/frame230.png
+Mandatory2/task2/images/frame231.png
+Mandatory2/task2/images/frame232.png
+Mandatory2/task2/images/frame233.png
+Mandatory2/task2/images/frame234.png
+Mandatory2/task2/images/frame235.png
+Mandatory2/task2/images/frame236.png
+Mandatory2/task2/images/frame237.png
+Mandatory2/task2/images/frame238.png
+Mandatory2/task2/images/frame239.png
+Mandatory2/task2/images/frame240.png
+Mandatory2/task2/images/frame241.png
+Mandatory2/task2/images/frame242.png
+Mandatory2/task2/images/frame243.png
+Mandatory2/task2/images/frame244.png
+Mandatory2/task2/images/frame245.png
+Mandatory2/task2/images/frame246.png
+Mandatory2/task2/images/frame247.png
+Mandatory2/task2/images/frame248.png
+Mandatory2/task2/images/frame249.png
+Mandatory2/task2/images/frame250.png
+Mandatory2/task2/images/frame251.png
+Mandatory2/task2/images/frame252.png
+Mandatory2/task2/images/frame253.png
+Mandatory2/task2/images/frame254.png
+Mandatory2/task2/images/frame255.png
+Mandatory2/task2/images/frame256.png
+Mandatory2/task2/images/frame257.png
+Mandatory2/task2/images/frame258.png
+Mandatory2/task2/images/frame259.png
+Mandatory2/task2/images/frame260.png
+Mandatory2/task2/images/frame261.png
+Mandatory2/task2/images/frame262.png
+Mandatory2/task2/images/frame263.png
+Mandatory2/task2/images/frame264.png
+Mandatory2/task2/images/frame265.png
+Mandatory2/task2/images/frame266.png
+Mandatory2/task2/images/frame267.png
+Mandatory2/task2/images/frame268.png
+Mandatory2/task2/images/frame269.png
+Mandatory2/task2/images/frame270.png
+Mandatory2/task2/images/frame271.png
+Mandatory2/task2/images/frame272.png
+Mandatory2/task2/images/frame273.png
+Mandatory2/task2/images/frame274.png
+Mandatory2/task2/images/frame275.png
+Mandatory2/task2/images/frame276.png
+Mandatory2/task2/images/frame277.png
+Mandatory2/task2/images/frame278.png
+Mandatory2/task2/images/frame279.png
+Mandatory2/task2/images/frame280.png
+Mandatory2/task2/images/frame281.png
+Mandatory2/task2/images/frame282.png
+Mandatory2/task2/images/frame283.png
+Mandatory2/task2/images/frame284.png
+Mandatory2/task2/images/frame285.png
+Mandatory2/task2/images/frame286.png
+Mandatory2/task2/images/frame287.png
+Mandatory2/task2/images/frame288.png
+Mandatory2/task2/images/frame289.png
+Mandatory2/task2/images/frame290.png
+Mandatory2/task2/images/frame291.png
+Mandatory2/task2/images/frame292.png
+Mandatory2/task2/images/frame293.png
+Mandatory2/task2/images/frame294.png
+Mandatory2/task2/images/frame295.png
+Mandatory2/task2/images/frame296.png
+Mandatory2/task2/images/frame297.png
+Mandatory2/task2/images/frame298.png
+Mandatory2/task2/images/frame299.png
+Mandatory2/task2/images/frame300.png
+Mandatory2/task2/images/frame301.png
+Mandatory2/task2/images/frame302.png
+Mandatory2/task2/images/frame303.png
+Mandatory2/task2/images/frame304.png
+Mandatory2/task2/images/frame305.png
+Mandatory2/task2/images/frame306.png
+Mandatory2/task2/images/frame307.png
+Mandatory2/task2/images/frame308.png
+Mandatory2/task2/images/frame309.png
+Mandatory2/task2/images/frame310.png
+Mandatory2/task2/images/frame311.png
+Mandatory2/task2/images/frame312.png
+Mandatory2/task2/images/frame313.png
+Mandatory2/task2/images/frame314.png
+Mandatory2/task2/images/frame315.png
+Mandatory2/task2/images/frame316.png
+Mandatory2/task2/images/frame317.png
+Mandatory2/task2/images/frame318.png
+Mandatory2/task2/images/frame319.png
+Mandatory2/task2/images/frame320.png
+Mandatory2/task2/images/frame321.png
+Mandatory2/task2/images/frame322.png
+Mandatory2/task2/images/frame323.png
+Mandatory2/task2/images/frame324.png
+Mandatory2/task2/images/frame325.png
+Mandatory2/task2/images/frame326.png
+Mandatory2/task2/images/frame327.png
+Mandatory2/task2/images/frame328.png
+Mandatory2/task2/images/frame329.png
+Mandatory2/task2/images/frame330.png
+Mandatory2/task2/images/frame331.png
+Mandatory2/task2/images/frame332.png
+Mandatory2/task2/images/frame333.png
+Mandatory2/task2/images/frame334.png
+Mandatory2/task2/images/frame335.png
+Mandatory2/task2/images/frame336.png
+Mandatory2/task2/images/frame337.png
+Mandatory2/task2/images/frame338.png
+Mandatory2/task2/images/frame339.png
+Mandatory2/task2/images/frame340.png
+Mandatory2/task2/images/frame341.png
+Mandatory2/task2/images/frame342.png
+Mandatory2/task2/images/frame343.png
+Mandatory2/task2/images/frame344.png
+Mandatory2/task2/images/frame345.png
+Mandatory2/task2/images/frame346.png
+Mandatory2/task2/images/frame347.png
+Mandatory2/task2/images/frame348.png
+Mandatory2/task2/images/frame349.png
+Mandatory2/task2/images/frame350.png
+Mandatory2/task2/images/frame351.png
+Mandatory2/task2/images/frame352.png
+Mandatory2/task2/images/frame353.png
+Mandatory2/task2/images/frame354.png
+Mandatory2/task2/images/frame355.png
+Mandatory2/task2/images/frame356.png
+Mandatory2/task2/images/frame357.png
+Mandatory2/task2/images/frame358.png
+Mandatory2/task2/images/frame359.png
+Mandatory2/task2/images/frame360.png
+Mandatory2/task2/images/frame361.png
+Mandatory2/task2/images/frame362.png
+Mandatory2/task2/images/frame363.png
+Mandatory2/task2/images/frame364.png
+Mandatory2/task2/in5450_oblig2_extra_task_data/data.int16
+Mandatory2/task2/in5450_oblig2_extra_task_data/metadata.json
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833089342708108.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833089409986750.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833089477263234.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833089544552299.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833089611822171.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833089679094634.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833089746347946.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833089813606664.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833089880891670.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833089948166516.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833090015446918.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833090082703333.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833090149962146.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833090217204351.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833090284464181.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833090351715347.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833090418997241.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833090486270374.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833090553534134.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833090620825128.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833090688129078.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833090755406821.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833090822680820.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833090889949018.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833090957215550.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833091024475211.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833091091720613.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833091158984848.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833091226250146.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833091293504019.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833091360758339.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833091428015072.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833091495293924.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833091562552387.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833091629828611.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833091697094620.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833091764358922.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833091831638112.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833091898911012.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833091966172238.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833092033447084.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833092100727417.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833092168019345.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833092235302024.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833092302570815.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833092369836062.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833092437116213.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833092504381569.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833092571655780.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833092638921050.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833092706196801.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833092773478988.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833092840737381.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833092908007722.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833092975295377.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833093042553283.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833093109809405.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833093177083342.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833093244375420.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833093311636421.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833093378910344.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833093446182190.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833093513442222.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833093580699923.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833093647964589.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833093715238048.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833093782523242.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833093849775864.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833093917062181.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833093984332871.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833094051589990.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833094118875991.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833094186136924.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833094253405446.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833094320675542.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833094387941804.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833094455199304.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833094522477266.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833094589754870.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833094657026066.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833094724294534.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833094791557198.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833094858824920.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833094926084043.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833094993368679.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833095060629244.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833095127914336.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833095195177055.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833095262443965.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833095329705655.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833095396978504.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833095464251534.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833095531524691.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833095598792821.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833095666054613.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833095733331901.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833095800584748.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833095867871161.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833095935137896.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833096002403496.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833096069669006.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833096136942900.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833096204209894.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833096271484944.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833096338744977.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833096406003201.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833096473286361.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833096540544103.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833096607823632.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833096675091045.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833096742360336.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833096809617111.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833096876901754.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833096944164250.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833097011444196.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833097078697217.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833097145974143.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833097213237472.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833097280517249.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833097347790254.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833097415063660.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833097482327452.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833097549602623.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833097616874661.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833097684137066.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833097751411710.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833097818684835.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833097885962259.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833097953232552.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833098020504429.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833098087771181.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833098155044454.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833098222297646.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833098289577948.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833098356843696.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833098424124083.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833098491384131.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833098558661047.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833098625928036.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833098693196422.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833098760447643.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833098827743349.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833098895008528.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833098962271964.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833099029543307.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833099096796662.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833099164086701.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833099231350470.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833099298624891.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833099365893034.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833099433154885.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833099500427988.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833099567703801.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833099634964475.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833099702239303.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833099769510029.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833099836780861.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833099904051525.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833099971320825.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833100038587506.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833100105854608.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833100173137099.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833100240387206.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833100307665938.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833100374944917.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833100442214283.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833100509482555.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833100576754131.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833100644022185.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833100711290071.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833100778561550.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833100845835339.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833100913091104.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833100980376910.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833101047645221.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833101114909441.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833101182177482.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833101249449774.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833101316727520.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833101383979380.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833101451265910.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833101518533720.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833101585806254.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833101653070289.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833101720340126.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833101787607320.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833101854887379.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833101922156534.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833101989430644.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833102056699789.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833102123949068.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833102191230640.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833102258507197.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833102325780209.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833102393047978.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833102460310005.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833102527594726.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833102594856133.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833102662134647.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833102729401834.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833102796673850.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833102863950799.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833102931213394.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833102998487131.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833103065757598.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833103133032566.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833103200303348.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833103267568964.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833103334833443.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833103402099016.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833103469387283.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833103536650626.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833103603915757.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833103671201773.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833103738440535.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833103805715790.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833103872984936.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833103940262596.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833104007537199.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833104074794396.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833104142065846.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833104209341655.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833104276610460.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833104343871085.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833104411157269.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833104478412161.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833104545684307.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833104612947722.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833104680233414.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833104747514299.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833104814779971.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833104882043687.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833104949329407.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833105016587822.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833105083858921.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833105151117752.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833105218387869.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833105285666756.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833105352944639.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833105420207078.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833105487480666.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833105554744477.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833105622019486.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833105689286287.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833105756554510.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833105823825846.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833105891084740.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833105958368423.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833106025641863.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833106092907857.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833106160177952.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833106227451371.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833106294724268.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833106361983047.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833106429243640.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833106496526469.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833106563795708.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833106631058837.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833106698332243.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833106765592099.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833106832856645.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833106900135372.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833106967391928.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833107034662394.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833107101931546.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833107169202493.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833107236478761.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833107303740011.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833107370998109.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833107438270427.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833107505539677.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833107572804006.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833107640081853.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833107707341920.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833107774605547.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833107841884644.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833107909142026.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833107976397579.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833108043690267.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833108110957964.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833108178198264.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833108245495189.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833108312755179.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833108380020387.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833108447301607.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833108514559165.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833108581834810.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833108649101712.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833108716366001.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833108783642026.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833108850900431.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833108918175216.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833108985458414.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833109052721913.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833109119989148.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833109187255455.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833109254537023.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833109321775050.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833109389069847.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833109456334848.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833109523605252.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833109590876708.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833109658138088.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833109725421652.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833109792693732.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833109859950757.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833109927227619.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833109994498124.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833110061769668.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833110129034583.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833110196295585.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833110263576382.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833110330854407.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833110398131738.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833110465387026.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833110532662779.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833110599925603.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833110667201293.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833110734475470.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833110801737376.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833110869017873.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833110936268661.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833111003551503.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833111070825443.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833111138090025.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833111205366480.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833111272632905.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833111339905702.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833111407177781.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833111474439512.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833111541712749.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833111608983335.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833111676254636.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833111743522641.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833111810797315.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833111878064996.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833111945339705.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833112012617261.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833112079882019.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833112147148655.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833112214412876.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833112281693561.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833112348969254.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833112416246523.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833112483506096.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833112550785459.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833112618054974.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833112685331653.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833112752599474.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833112819872816.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833112887139102.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833112954408834.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833113021681594.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833113088953640.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833113156219480.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833113223498046.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833113290773520.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833113358026151.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833113425313341.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833113492574270.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833113559849401.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833113627125267.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833113694398798.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833113761663727.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833113828936017.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833113896206547.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833113963464016.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833114030747537.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833114098020752.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833114165277856.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833114232550777.jpg
+Mandatory2/task2/in5450_oblig2_extra_task_data/video/1646833114299805802.jpg
+Mandatory2/task2_without_data/audio_channel_20.wav
+Mandatory2/task2_without_data/beamforming.py
+Mandatory2/task2_without_data/error1.log
+Mandatory2/task2_without_data/in5450_oblig2_extra_task.ipynb
+Mandatory2/task2_without_data/main.py
+Mandatory2/task2_without_data/out1.log
+Mandatory2/task2_without_data/readme.pdf
+Mandatory2/task2_without_data/utils.py
+Mandatory2/task2_without_data/video_channel_20_final.mp4
+Mandatory2/task2_without_data/video_channel_20wo_lowpass_final.mp4
+Mandatory2/task2_without_data/__pycache__/beamforming.cpython-38.pyc
+Mandatory2/task2_without_data/__pycache__/utils.cpython-38.pyc
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/data.int16
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/metadata.json
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833089342708108.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833089409986750.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833089477263234.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833089544552299.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833089611822171.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833089679094634.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833089746347946.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833089813606664.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833089880891670.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833089948166516.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833090015446918.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833090082703333.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833090149962146.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833090217204351.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833090284464181.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833090351715347.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833090418997241.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833090486270374.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833090553534134.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833090620825128.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833090688129078.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833090755406821.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833090822680820.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833090889949018.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833090957215550.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833091024475211.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833091091720613.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833091158984848.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833091226250146.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833091293504019.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833091360758339.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833091428015072.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833091495293924.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833091562552387.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833091629828611.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833091697094620.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833091764358922.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833091831638112.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833091898911012.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833091966172238.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833092033447084.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833092100727417.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833092168019345.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833092235302024.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833092302570815.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833092369836062.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833092437116213.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833092504381569.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833092571655780.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833092638921050.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833092706196801.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833092773478988.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833092840737381.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833092908007722.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833092975295377.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833093042553283.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833093109809405.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833093177083342.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833093244375420.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833093311636421.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833093378910344.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833093446182190.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833093513442222.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833093580699923.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833093647964589.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833093715238048.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833093782523242.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833093849775864.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833093917062181.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833093984332871.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833094051589990.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833094118875991.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833094186136924.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833094253405446.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833094320675542.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833094387941804.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833094455199304.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833094522477266.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833094589754870.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833094657026066.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833094724294534.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833094791557198.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833094858824920.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833094926084043.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833094993368679.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833095060629244.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833095127914336.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833095195177055.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833095262443965.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833095329705655.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833095396978504.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833095464251534.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833095531524691.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833095598792821.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833095666054613.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833095733331901.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833095800584748.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833095867871161.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833095935137896.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833096002403496.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833096069669006.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833096136942900.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833096204209894.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833096271484944.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833096338744977.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833096406003201.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833096473286361.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833096540544103.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833096607823632.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833096675091045.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833096742360336.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833096809617111.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833096876901754.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833096944164250.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833097011444196.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833097078697217.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833097145974143.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833097213237472.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833097280517249.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833097347790254.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833097415063660.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833097482327452.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833097549602623.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833097616874661.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833097684137066.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833097751411710.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833097818684835.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833097885962259.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833097953232552.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833098020504429.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833098087771181.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833098155044454.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833098222297646.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833098289577948.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833098356843696.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833098424124083.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833098491384131.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833098558661047.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833098625928036.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833098693196422.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833098760447643.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833098827743349.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833098895008528.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833098962271964.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833099029543307.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833099096796662.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833099164086701.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833099231350470.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833099298624891.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833099365893034.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833099433154885.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833099500427988.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833099567703801.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833099634964475.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833099702239303.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833099769510029.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833099836780861.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833099904051525.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833099971320825.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833100038587506.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833100105854608.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833100173137099.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833100240387206.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833100307665938.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833100374944917.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833100442214283.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833100509482555.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833100576754131.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833100644022185.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833100711290071.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833100778561550.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833100845835339.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833100913091104.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833100980376910.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833101047645221.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833101114909441.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833101182177482.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833101249449774.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833101316727520.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833101383979380.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833101451265910.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833101518533720.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833101585806254.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833101653070289.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833101720340126.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833101787607320.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833101854887379.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833101922156534.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833101989430644.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833102056699789.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833102123949068.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833102191230640.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833102258507197.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833102325780209.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833102393047978.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833102460310005.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833102527594726.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833102594856133.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833102662134647.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833102729401834.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833102796673850.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833102863950799.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833102931213394.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833102998487131.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833103065757598.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833103133032566.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833103200303348.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833103267568964.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833103334833443.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833103402099016.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833103469387283.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833103536650626.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833103603915757.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833103671201773.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833103738440535.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833103805715790.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833103872984936.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833103940262596.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833104007537199.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833104074794396.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833104142065846.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833104209341655.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833104276610460.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833104343871085.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833104411157269.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833104478412161.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833104545684307.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833104612947722.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833104680233414.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833104747514299.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833104814779971.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833104882043687.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833104949329407.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833105016587822.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833105083858921.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833105151117752.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833105218387869.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833105285666756.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833105352944639.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833105420207078.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833105487480666.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833105554744477.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833105622019486.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833105689286287.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833105756554510.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833105823825846.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833105891084740.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833105958368423.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833106025641863.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833106092907857.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833106160177952.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833106227451371.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833106294724268.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833106361983047.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833106429243640.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833106496526469.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833106563795708.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833106631058837.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833106698332243.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833106765592099.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833106832856645.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833106900135372.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833106967391928.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833107034662394.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833107101931546.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833107169202493.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833107236478761.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833107303740011.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833107370998109.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833107438270427.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833107505539677.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833107572804006.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833107640081853.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833107707341920.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833107774605547.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833107841884644.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833107909142026.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833107976397579.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833108043690267.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833108110957964.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833108178198264.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833108245495189.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833108312755179.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833108380020387.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833108447301607.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833108514559165.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833108581834810.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833108649101712.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833108716366001.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833108783642026.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833108850900431.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833108918175216.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833108985458414.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833109052721913.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833109119989148.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833109187255455.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833109254537023.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833109321775050.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833109389069847.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833109456334848.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833109523605252.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833109590876708.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833109658138088.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833109725421652.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833109792693732.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833109859950757.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833109927227619.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833109994498124.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833110061769668.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833110129034583.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833110196295585.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833110263576382.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833110330854407.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833110398131738.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833110465387026.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833110532662779.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833110599925603.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833110667201293.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833110734475470.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833110801737376.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833110869017873.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833110936268661.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833111003551503.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833111070825443.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833111138090025.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833111205366480.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833111272632905.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833111339905702.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833111407177781.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833111474439512.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833111541712749.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833111608983335.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833111676254636.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833111743522641.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833111810797315.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833111878064996.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833111945339705.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833112012617261.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833112079882019.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833112147148655.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833112214412876.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833112281693561.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833112348969254.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833112416246523.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833112483506096.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833112550785459.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833112618054974.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833112685331653.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833112752599474.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833112819872816.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833112887139102.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833112954408834.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833113021681594.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833113088953640.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833113156219480.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833113223498046.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833113290773520.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833113358026151.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833113425313341.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833113492574270.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833113559849401.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833113627125267.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833113694398798.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833113761663727.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833113828936017.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833113896206547.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833113963464016.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833114030747537.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833114098020752.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833114165277856.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833114232550777.jpg
+Mandatory2/task2_without_data/in5450_oblig2_extra_task_data/video/1646833114299805802.jpg
+Mandatory2/task2_without_data copie/audio_channel_20.wav
+Mandatory2/task2_without_data copie/beamforming.py
+Mandatory2/task2_without_data copie/error1.log
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task.ipynb
+Mandatory2/task2_without_data copie/main.py
+Mandatory2/task2_without_data copie/out1.log
+Mandatory2/task2_without_data copie/readme.pdf
+Mandatory2/task2_without_data copie/utils.py
+Mandatory2/task2_without_data copie/video_channel_20_final.mp4
+Mandatory2/task2_without_data copie/video_channel_20wo_lowpass_final.mp4
+Mandatory2/task2_without_data copie/__pycache__/beamforming.cpython-38.pyc
+Mandatory2/task2_without_data copie/__pycache__/utils.cpython-38.pyc
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/data.int16
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/metadata.json
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833089342708108.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833089409986750.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833089477263234.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833089544552299.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833089611822171.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833089679094634.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833089746347946.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833089813606664.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833089880891670.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833089948166516.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833090015446918.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833090082703333.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833090149962146.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833090217204351.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833090284464181.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833090351715347.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833090418997241.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833090486270374.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833090553534134.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833090620825128.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833090688129078.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833090755406821.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833090822680820.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833090889949018.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833090957215550.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833091024475211.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833091091720613.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833091158984848.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833091226250146.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833091293504019.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833091360758339.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833091428015072.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833091495293924.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833091562552387.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833091629828611.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833091697094620.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833091764358922.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833091831638112.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833091898911012.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833091966172238.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833092033447084.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833092100727417.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833092168019345.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833092235302024.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833092302570815.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833092369836062.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833092437116213.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833092504381569.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833092571655780.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833092638921050.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833092706196801.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833092773478988.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833092840737381.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833092908007722.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833092975295377.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833093042553283.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833093109809405.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833093177083342.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833093244375420.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833093311636421.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833093378910344.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833093446182190.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833093513442222.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833093580699923.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833093647964589.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833093715238048.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833093782523242.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833093849775864.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833093917062181.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833093984332871.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833094051589990.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833094118875991.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833094186136924.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833094253405446.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833094320675542.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833094387941804.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833094455199304.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833094522477266.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833094589754870.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833094657026066.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833094724294534.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833094791557198.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833094858824920.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833094926084043.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833094993368679.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833095060629244.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833095127914336.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833095195177055.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833095262443965.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833095329705655.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833095396978504.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833095464251534.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833095531524691.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833095598792821.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833095666054613.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833095733331901.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833095800584748.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833095867871161.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833095935137896.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833096002403496.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833096069669006.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833096136942900.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833096204209894.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833096271484944.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833096338744977.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833096406003201.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833096473286361.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833096540544103.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833096607823632.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833096675091045.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833096742360336.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833096809617111.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833096876901754.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833096944164250.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833097011444196.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833097078697217.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833097145974143.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833097213237472.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833097280517249.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833097347790254.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833097415063660.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833097482327452.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833097549602623.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833097616874661.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833097684137066.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833097751411710.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833097818684835.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833097885962259.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833097953232552.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833098020504429.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833098087771181.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833098155044454.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833098222297646.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833098289577948.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833098356843696.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833098424124083.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833098491384131.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833098558661047.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833098625928036.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833098693196422.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833098760447643.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833098827743349.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833098895008528.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833098962271964.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833099029543307.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833099096796662.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833099164086701.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833099231350470.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833099298624891.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833099365893034.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833099433154885.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833099500427988.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833099567703801.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833099634964475.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833099702239303.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833099769510029.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833099836780861.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833099904051525.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833099971320825.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833100038587506.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833100105854608.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833100173137099.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833100240387206.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833100307665938.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833100374944917.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833100442214283.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833100509482555.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833100576754131.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833100644022185.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833100711290071.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833100778561550.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833100845835339.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833100913091104.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833100980376910.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833101047645221.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833101114909441.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833101182177482.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833101249449774.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833101316727520.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833101383979380.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833101451265910.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833101518533720.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833101585806254.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833101653070289.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833101720340126.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833101787607320.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833101854887379.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833101922156534.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833101989430644.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833102056699789.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833102123949068.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833102191230640.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833102258507197.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833102325780209.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833102393047978.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833102460310005.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833102527594726.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833102594856133.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833102662134647.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833102729401834.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833102796673850.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833102863950799.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833102931213394.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833102998487131.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833103065757598.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833103133032566.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833103200303348.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833103267568964.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833103334833443.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833103402099016.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833103469387283.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833103536650626.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833103603915757.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833103671201773.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833103738440535.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833103805715790.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833103872984936.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833103940262596.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833104007537199.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833104074794396.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833104142065846.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833104209341655.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833104276610460.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833104343871085.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833104411157269.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833104478412161.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833104545684307.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833104612947722.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833104680233414.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833104747514299.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833104814779971.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833104882043687.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833104949329407.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833105016587822.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833105083858921.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833105151117752.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833105218387869.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833105285666756.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833105352944639.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833105420207078.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833105487480666.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833105554744477.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833105622019486.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833105689286287.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833105756554510.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833105823825846.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833105891084740.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833105958368423.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833106025641863.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833106092907857.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833106160177952.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833106227451371.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833106294724268.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833106361983047.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833106429243640.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833106496526469.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833106563795708.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833106631058837.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833106698332243.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833106765592099.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833106832856645.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833106900135372.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833106967391928.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833107034662394.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833107101931546.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833107169202493.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833107236478761.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833107303740011.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833107370998109.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833107438270427.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833107505539677.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833107572804006.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833107640081853.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833107707341920.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833107774605547.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833107841884644.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833107909142026.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833107976397579.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833108043690267.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833108110957964.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833108178198264.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833108245495189.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833108312755179.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833108380020387.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833108447301607.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833108514559165.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833108581834810.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833108649101712.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833108716366001.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833108783642026.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833108850900431.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833108918175216.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833108985458414.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833109052721913.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833109119989148.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833109187255455.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833109254537023.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833109321775050.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833109389069847.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833109456334848.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833109523605252.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833109590876708.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833109658138088.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833109725421652.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833109792693732.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833109859950757.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833109927227619.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833109994498124.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833110061769668.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833110129034583.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833110196295585.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833110263576382.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833110330854407.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833110398131738.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833110465387026.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833110532662779.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833110599925603.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833110667201293.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833110734475470.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833110801737376.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833110869017873.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833110936268661.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833111003551503.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833111070825443.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833111138090025.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833111205366480.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833111272632905.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833111339905702.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833111407177781.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833111474439512.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833111541712749.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833111608983335.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833111676254636.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833111743522641.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833111810797315.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833111878064996.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833111945339705.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833112012617261.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833112079882019.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833112147148655.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833112214412876.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833112281693561.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833112348969254.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833112416246523.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833112483506096.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833112550785459.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833112618054974.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833112685331653.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833112752599474.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833112819872816.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833112887139102.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833112954408834.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833113021681594.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833113088953640.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833113156219480.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833113223498046.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833113290773520.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833113358026151.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833113425313341.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833113492574270.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833113559849401.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833113627125267.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833113694398798.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833113761663727.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833113828936017.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833113896206547.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833113963464016.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833114030747537.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833114098020752.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833114165277856.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833114232550777.jpg
+Mandatory2/task2_without_data copie/in5450_oblig2_extra_task_data/video/1646833114299805802.jpg
+Mandatory2/Two_decades_of_array_signal_processing.pdf

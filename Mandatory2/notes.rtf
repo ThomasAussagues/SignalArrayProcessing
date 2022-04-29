@@ -1,0 +1,105 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2636
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww14800\viewh16060\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 ***************************************************************************************************\
+\
+IN 5400 Signal Array Processing\
+\
+Mandatory exercise 2: High resolution beamforming on Garfield monochromatic signals\
+\
+***************************************************************************************************\
+\
+TASK 1\
+\
+Slide 2: \
+- d = 0.5 * lambda => ULA sampling criterion is satisfied!\
+- Simple noise model here: AWGN\
+- Data is complex => we must not forget the Hermitian conjugate transpose because of the scalar product definition : < x | y > = sum x . y^* = x y^T\
+- In the first part, we assumed incoherent sources (two ways of making the sources incoherent: != noises or != frequencies) = anechoic signal propagation model\
+\
+Slide 3: spatial correlation matrix\
+- We assume the data to be multiple realizations from a WSS process => the estimator\
+- From the plots: R is hermitian as expected\
+- Low correlation outside the diagonal (as expected because the two sources are incoherent)\
+\
+Slide 4: DAS power estimate\
+- <=> The simpliest power estimate that we can compute / build\
+- How can we asses its performance? Bias, variance\'85 (we should run the experiment multiple times with different AWGN to asses these metrics)\
+- DAS is unable to ** resolve ** the two sources (expected pattern: two deltas)\
+- They are merged into one source  \
+- Acceptable time complexity: only matrix multiplications \
+\
+Slide 5: CAPON\'92s beamformer\
+- Note that minimum-variance beamformer does not refer to the variance but to the power level of the direction != of the DOA\
+- Noticable improvements: the beamformer is able to resolve the two sources\
+- DOA estimation is correct\
+- But SNR is not that good + side lobes\
+- Requires a matrix inversion\'85\
+\
+Slide 6: Eigenvalues distribution \
+- We can decompose R into two sub-matrix: one for the signal + noise and the other for the noise only\
+- Two eigenvalues should be larger than the other ones -> We are able to estimate the number of sources\
+\
+Slide 7: Music algorithm\
+- How to take advantage of this eigenvalue decomposition to build a better beamformer?\
+- Estimate the inverse of R using the eigenvalue decomposition with normalization\
+- Performs better than CAPON\'92s beamformer\
+- Thinner ML + lower SL\
+- But the power level estimates are false!\
+\
+Slide 8: Eigenvector method\
+- Same idea as the MUSIC algorithm but without normalization\
+- Similar results except for the beamformer behavior outside the peaks region\
+\
+Slide 9: Incorrect number of sources\
+- We assumed the number of sources to be known = a priori knowledge\
+- What if we do not know it?\
+- Ns = 0 => EV = CAPON (no subspace decomposition) and MUSIC is flat because ????\
+- Ns < true number of sources => we take into account unwanted sub-spaces\'85\
+- EV is more robust than MUSIC\
+\
+Slide 10: summary\
+- Best alg. EV or MUSIC\
+- But they give wrong power level estimates!\
+- New propagation model: echoic!\
+\
+Slide 12: Spatial correlation matrices for coherent sources\
+- R is still Hermitian but with higher correlation terms outside the diagonal\
+- Strange pattern for the 8-th source\
+\
+Slide 13: EV and MUSIC algorithms\
+- Only 1 eigenvalue\'85 => Wrong number of sources\
+- Not able to resolve the two sources! Merged into one\
+\
+Slide 14: What transformation should we apply to R\
+- Spatial averaging: compute the spatial correlation matrix of multiple sub-arrays of size L and then average all the matrices => Should reduce the cross-correlation but also reduce the resolution!\
+- Forward backward \
+- Combinations of the previous transforms\
+\
+Slide 15: What transformation should we apply to R\
+\
+Slide 16: What transformation should we apply to R\
+- Best results for FB, FB + smoothed and smoothed + FB\
+- Two peaks + acceptable SL levels!\
+\
+Slide 17: Bias and ML width\
+- Compute bias = the error between the DOA estimates and the true values and the peaks width\
+- Confirms our previous conclusions \
+- FB is the better option here!\
+\
+TASK 2\
+\
+- How to read the array data?\
+- We read the data block by block where a block represents the collected audio between two given time samples for all the 60 microphones\
+- So, how to define the block length? block_length = nb of time samples * number of receivers * 2 (because we have 2 bytes per sample)\
+- We use a generator to read the data: the data is read only when we call it inside a function and not before => reduce the necessary space\
+- Moreover, we need to zero-pad the data to be able to delay (with a positive or negative delay)\
+- We must know the max delay. Then, we build the zero padded blocks using 3 blocks and a FIFO stack (first in first out)
+\f1\fs21\fsmilli10667 \cf2 \expnd0\expndtw0\kerning0
+\uc0\u8232 
+\fs24 \
+}

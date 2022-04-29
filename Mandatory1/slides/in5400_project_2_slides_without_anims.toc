@@ -1,0 +1,9 @@
+\babel@toc {UKenglish}{}
+\beamer@sectionintoc {1}{Angular Spectrum Approach}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Unfocused}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Focused}{3}{0}{1}
+\beamer@sectionintoc {2}{Array pattern}{3}{0}{2}
+\beamer@subsectionintoc {2}{1}{Gating lobes}{3}{0}{2}
+\beamer@subsectionintoc {2}{2}{Element weighting and element spacing}{3}{0}{2}
+\beamer@subsectionintoc {2}{3}{Thinning}{3}{0}{2}
+\beamer@subsectionintoc {2}{4}{Element directivity}{3}{0}{2}

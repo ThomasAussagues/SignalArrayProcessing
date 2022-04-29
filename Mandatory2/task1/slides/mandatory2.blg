@@ -1,0 +1,18 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'mandatory2.blg'
+[48] biber-darwin:340> INFO - === Sun Apr  3, 2022, 18:28:50
+[58] Biber.pm:415> INFO - Reading 'mandatory2.bcf'
+[125] Biber.pm:952> INFO - Found 4 citekeys in bib section 0
+[136] Biber.pm:4340> INFO - Processing section 0
+[143] Biber.pm:4531> INFO - Looking for bibtex format file 'biblio.bib' for section 0
+[144] bibtex.pm:1689> INFO - LaTeX decoding ...
+[151] bibtex.pm:1494> INFO - Found BibTeX data source 'biblio.bib'
+[185] Utils.pm:395> WARN - ISBN '2041-1723' in entry 'fabio' is invalid - run biber with '--validate_datamodel' for details.
+[190] Utils.pm:395> WARN - BibTeX subsystem: /var/folders/cw/5xff940s6559c90nyhzx9s9m0000gn/T/biber_tmp_7eHU/a9e03cb3043b9e2c02591da84105bb68_75956.utf8, line 8, warning: 219 characters of junk seen at toplevel
+[197] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[197] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'variable = shifted' with 'variable = non-ignorable'
+[197] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-UK'
+[197] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-UK'
+[201] bbl.pm:654> INFO - Writing 'mandatory2.bbl' with encoding 'UTF-8'
+[203] bbl.pm:757> INFO - Output to mandatory2.bbl
+[203] Biber.pm:128> INFO - WARNINGS: 2

@@ -1,0 +1,7 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {UKenglish}{}
+\beamer@sectionintoc {1}{Problem statement}{3}{0}{1}
+\beamer@sectionintoc {2}{Pulse compression}{4}{0}{2}
+\beamer@sectionintoc {3}{Virtual array}{10}{0}{3}
+\beamer@sectionintoc {4}{Delay-And-Sum}{12}{0}{4}
+\beamer@sectionintoc {5}{Tapering}{18}{0}{5}
